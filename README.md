@@ -1,2 +1,2 @@
 # busylight-lync-linux-osx
-Using Busylight Lync on Linux with Lync running on OSX
+Using Busylight Lync on Linux with Microsoft Lync running on OSX
